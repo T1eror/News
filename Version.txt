@@ -1,1 +1,1 @@
-V.1
+CurrentVersion = "V.1"
